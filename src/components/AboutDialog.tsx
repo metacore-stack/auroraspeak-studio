@@ -64,7 +64,7 @@ function AboutDialog({ open, onClose, notify }: AboutDialogProps) {
               <div className="mt-1">
                 <IconBrandGithub className="inline mr-1.5 w-5 h-5" />
                 <a
-                  href="https://github.com/hahahumble/speechgpt"
+                  href="https://github.com/metacore-stack/auroraspeak-studio"
                   className="inline underline hover:text-indigo-600"
                 >
                   GitHub
